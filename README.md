@@ -25,7 +25,7 @@ jekyll serve
 - Browse the website by going to this URL. Make sure to stop the server and run again each time a change is made to the ```_config.yml``` file.
 
 ```
-http://127.0.0.1:4000/openc2-org.github.io/
+http://127.0.0.1:4000
 ```
 ## Website Structure
 
@@ -76,7 +76,7 @@ http://127.0.0.1:4000/openc2-org.github.io/
 -- 404.html                          # Invalid URLs point to this page.
 -- CNAME                             # Contains Domain name of the OpenC2 website.
 -- _config.yml                       # Jekyll configuration for this website. Requires Server Restart each time it's changed.
--- contact.html                      # https://openc2.org/contact.html
+-- contact.html                      # Contact Us
 -- faq.html                          # Frequently asked Questions
 -- favicon.ico
 -- index.html                        # HomePage of this website.
