@@ -25,7 +25,7 @@ jekyll serve
 - Browse the website by going to this URL. Make sure to stop the server and run again each time a change is made to the ```_config.yml``` file.
 
 ```
-http://127.0.0.1:4000
+http://127.0.0.1:4000/openc2-org.github.io/
 ```
 ## Website Structure
 
@@ -76,7 +76,7 @@ http://127.0.0.1:4000
 -- 404.html                          # Invalid URLs point to this page.
 -- CNAME                             # Contains Domain name of the OpenC2 website.
 -- _config.yml                       # Jekyll configuration for this website. Requires Server Restart each time it's changed.
--- contact.html                      # Contact Us
+-- contact.html                      # https://openc2.org/contact.html
 -- faq.html                          # Frequently asked Questions
 -- favicon.ico
 -- index.html                        # HomePage of this website.
@@ -134,4 +134,3 @@ To add or remove cards in the timeline, Open ```news.html``` and find the date y
 
 ## Contributing
 Pull requests are welcome. To request changes, please open an issue first to discuss what you would like to change.
-
